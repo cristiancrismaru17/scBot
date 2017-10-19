@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  tjbot.c
+  Generating code
+  2 of 50 functions ( 4.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  tjbot.vcxproj -> C:\Users\ChrisT\Desktop\TJBot-master\..\..\..\..\Program Files (x86)\WolfET\speed.dll
+  tjbot.vcxproj -> ..\..\..\..\Program Files (x86)\WolfET\speed.pdb (Full PDB)
